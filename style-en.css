@@ -2628,6 +2628,12 @@ body.oopen {
 
 }
 
+@media (max-width: 830px) {
+    #buttonContainer {
+        top: 75%;
+    }
+}
+
 @media (max-width: 768px) and (max-height: 670px){
     .btnContainer-material {
         display: none;
@@ -2913,14 +2919,6 @@ body.oopen {
 }
 
 @media (max-width: 670px) {
-
-    #buttonContainer {
-        top: 75%;
-    }
-
-
-
-
 
     .material-description-container {
         height: 130px;
