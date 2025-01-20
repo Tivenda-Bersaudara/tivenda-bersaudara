@@ -1,5 +1,3 @@
-## Hi there
-
 ## Company Website
 
 This repository contains the code for our company website. Please do not copy, modify, or distribute the code without prior permission.
